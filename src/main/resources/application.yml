@@ -1,0 +1,11 @@
+spring:
+  elasticsearch:
+    rest:
+      username:
+      password:
+      uris: http://127.0.0.1:9200
+      read-timeout: 10s
+      connection-timeout: 10s
+
+server:
+  port: 8082

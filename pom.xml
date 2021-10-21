@@ -13,7 +13,7 @@
     <artifactId>elasticsearch-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>elasticsearch-demo</name>
-    <description>Demo project for Spring Boot Elasticsearch</description>
+    <description>Demo project for Spring Boot Elasticsearch(版本: 7.15.0)</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
